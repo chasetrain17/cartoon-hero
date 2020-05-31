@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+	font-family: 'Anton', sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: #d14635;
+	text-align: center;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 150px;
+}
+
+main{
+	max-width: 800px;
+	text-align: center;
+}
+
+main img{
+max-width: 100%;
+width: 100%;
+}
+
+h2{
+font-size: 35px;
+}
+
+a{
+ color: #e70c19
+}
+
+a:hover{
+	color:blue;
+}
+
+footer{
+	background-color: #d14635;
+	text-align: center;
+}
